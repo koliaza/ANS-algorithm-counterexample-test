@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1440001261 source:c:\users\koliaza\svenson counterexample\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<random>
+	"tools.h"
+
+1432167163 c:\users\koliaza\svenson counterexample\tools.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<cstdlib>
+
+1433874566 source:c:\users\koliaza\svenson counterexample\tools.cpp
+	"tools.h"
+
+1433874112 c:\users\koliaza\svenson counterexample\tools.h
+	<iostream>
+	<algorithm>
+	<vector>
+	<ctime>
+	<cstdlib>
+	<array>
+	<random>
+	<chrono>
+	<iomanip>
+	<ctime>
+
